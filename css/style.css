@@ -1,0 +1,28 @@
+header {
+  background-color: #000;
+}
+
+h1 {
+  color: rgb(101, 18, 196);
+}
+
+body {
+  font-size: 20px;
+  text-align: center;
+  color: aqua;
+}
+body div {
+  font-size: 10px;
+}
+
+.block {
+  color: #000;
+}
+
+.block__item {
+  color: #000;
+}
+
+.red {
+  color: red;
+}
